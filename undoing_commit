@@ -1,1 +1,9 @@
 What if we committed something wrongly.!!!
+
+
+Hdasfjh;ksdjhfkhdaskfhdjsbvdvsvjhadfslkjgdfjsgj
+kjasdhfkjshflkjdshakhfajsdhfdjashflkjhasdflkhadskhfkljashdfklhasdfklhasdkfh
+Wrongful Commit!!!!
+
+git reset --soft HEAD^ will remove changes from the last commit bringing them to the staging area.!!!!!
+git reset <filename> will unstage the changes.
