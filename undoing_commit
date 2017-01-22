@@ -7,3 +7,8 @@ Wrongful Commit!!!!
 
 git reset --soft HEAD^ will remove changes from the last commit bringing them to the staging area.!!!!!
 git reset <filename> will unstage the changes.
+
+
+This statement is to demonstrate ammend option in a commit.!!!
+
+ldkjfadjskfhkjasdhfjasdfjadgsfhjgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
