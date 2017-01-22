@@ -12,3 +12,4 @@ git reset <filename> will unstage the changes.
 This statement is to demonstrate ammend option in a commit.!!!
 
 ldkjfadjskfhkjasdhfjasdfjadgsfhjgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+git commit --amend -m "Modify undoing_commit file".
